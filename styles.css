@@ -2,8 +2,12 @@ body {
   background: #BEA9DF;
 }
 
-h1, h3, p {
+h1, h3, p, li, ul {
   font-family: "Helvetica";
   color: white;
+}
+
+h1 {
+  text-shadow: 2px 2px;
 }
 
