@@ -1,4 +1,9 @@
 body {
+  background: #BEA9DF;
+}
+
+h1, h3, p {
   font-family: "Helvetica";
+  color: white;
 }
 
